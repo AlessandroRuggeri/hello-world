@@ -1,0 +1,2 @@
+A new document created to try the capabilities of git.
+
