@@ -1,2 +1,3 @@
 A new document created to try the capabilities of git.
-
+We add some text to the file and push the changes to the remote repository: said text.
+Some new test for the new branch
